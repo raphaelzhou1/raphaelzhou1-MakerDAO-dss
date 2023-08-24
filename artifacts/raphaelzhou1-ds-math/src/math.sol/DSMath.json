@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "DSMath",
+  "sourceName": "raphaelzhou1-ds-math/src/math.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212209fe1be293e7ef4cf8114222cca686632101f0140b9a9d2b5990c7ca02e6dccdb64736f6c634300060c0033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212209fe1be293e7ef4cf8114222cca686632101f0140b9a9d2b5990c7ca02e6dccdb64736f6c634300060c0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

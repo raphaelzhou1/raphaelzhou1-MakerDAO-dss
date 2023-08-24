@@ -1,0 +1,20 @@
+{
+  "name": "raphaelzhou1-ds-auth",
+  "version": "2.0.0",
+  "description": "<h2>DSAuth   <small class=\"text-muted\">     <a href=\"https://github.com/dapphub/ds-auth\"><span class=\"fa fa-github\"></span></a>   </small> </h2>",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src/*"
+  ],
+  "author": "Tianyu Zhou",
+  "license": "ISC",
+  "devDependencies": {
+    "raphaelzhou1-ds-test": "^1.0.0"
+  }
+}

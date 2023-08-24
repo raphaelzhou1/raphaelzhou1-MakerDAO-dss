@@ -1,0 +1,22 @@
+{
+  "name": "raphaelzhou1-ds-thing",
+  "version": "3.0.0",
+  "description": "<h2>DSThing   <small class=\"text-muted\">     <a href=\"https://github.com/dapphub/ds-thing\"><span class=\"fa fa-github\"></span></a>   </small> </h2>",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src/*"
+  ],
+  "author": "Tianyu Zhou",
+  "license": "ISC",
+  "devDependencies": {
+    "raphaelzhou1-ds-auth": "^2.0.0",
+    "raphaelzhou1-ds-math": "^3.0.0",
+    "raphaelzhou1-ds-note": "^2.0.0"
+  }
+}

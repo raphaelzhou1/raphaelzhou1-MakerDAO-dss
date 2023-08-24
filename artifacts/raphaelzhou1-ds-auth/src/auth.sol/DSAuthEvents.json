@@ -1,0 +1,37 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "DSAuthEvents",
+  "sourceName": "raphaelzhou1-ds-auth/src/auth.sol",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "address",
+          "name": "authority",
+          "type": "address"
+        }
+      ],
+      "name": "LogSetAuthority",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "address",
+          "name": "owner",
+          "type": "address"
+        }
+      ],
+      "name": "LogSetOwner",
+      "type": "event"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220a81a22ebef96f36c7ad880413a8bb35ae3d34225c9c28e6f4190d05bc3b540bf64736f6c634300060c0033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220a81a22ebef96f36c7ad880413a8bb35ae3d34225c9c28e6f4190d05bc3b540bf64736f6c634300060c0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
