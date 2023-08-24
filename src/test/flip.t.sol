@@ -2,7 +2,7 @@
 
 pragma solidity >=0.5.12;
 
-import "ds-test/test.sol";
+import "raphaelzhou1-ds-test/src/test.sol";
 
 import {Vat}     from "../vat.sol";
 import {Cat}     from "../cat.sol";

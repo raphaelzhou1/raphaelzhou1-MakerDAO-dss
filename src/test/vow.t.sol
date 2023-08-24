@@ -17,7 +17,7 @@
 
 pragma solidity ^0.6.12;
 
-import "ds-test/test.sol";
+import "raphaelzhou1-ds-test/src/test.sol";
 
 import {Flopper as Flop} from './flop.t.sol';
 import {Flapper as Flap} from './flap.t.sol';

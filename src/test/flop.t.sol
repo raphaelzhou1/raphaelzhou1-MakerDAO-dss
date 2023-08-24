@@ -17,8 +17,8 @@
 
 pragma solidity ^0.6.12;
 
-import {DSTest}  from "ds-test/test.sol";
-import {DSToken} from "ds-token/token.sol";
+import {DSTest}  from "raphaelzhou1-ds-test/src/test.sol";
+import {DSToken} from "raphaelzhou1-ds-token/src/token.sol";
 import "../flop.sol";
 import "../vat.sol";
 

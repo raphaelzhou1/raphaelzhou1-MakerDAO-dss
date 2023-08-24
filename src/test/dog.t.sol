@@ -19,7 +19,7 @@
 
 pragma solidity ^0.6.12;
 
-import { DSTest } from "ds-test/test.sol";
+import { DSTest } from "raphaelzhou1-ds-test/src/test.sol";
 import { Vat } from "../vat.sol";
 import { Dog } from "../dog.sol";
 

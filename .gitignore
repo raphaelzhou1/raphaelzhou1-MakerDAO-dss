@@ -1,2 +1,13 @@
-/out
-.DS_Store
+dss
+**/out
+**/.DS_Store
+
+# ds- stuff
+**/.dapple
+**/build
+**/out
+**/cache/
+**/chain_db/
+
+
+**/node_modules
